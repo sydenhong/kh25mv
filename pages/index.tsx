@@ -14,12 +14,12 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://www.wolnimal.com/">WOLANIMAL.COM!</a>
+          Welcome to <a href="https://khmer25mv.com/">KHMER25MV.COM!</a>
         </h1>
 
         <div className={styles.grid}>
-          <a href="https://www.wolnimal.com/" className={styles.card}>
-            <h2>WOLANIMAL &rarr;</h2>
+          <a href="https://khmer25mv.com/" className={styles.card}>
+            <h2>KHMER25MV &rarr;</h2>
             <p>Watch HD movies, tv-series BluRay, WEB-DL, WEBRip 1080p, 720p, online with subtitles for free.</p>
           </a>
         </div>
